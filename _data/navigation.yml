@@ -1,7 +1,7 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,13 +10,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  #- title: "Publications"
-  #  url: https://scholar.google.com/citations?user=SEanjCoAAAAJ
-  #- title: "CV"
-  #  url: https://scholar.google.com/citations?user=SEanjCoAAAAJ
-  #- title: "Publications"
-  #  url: https://scholar.google.com/citations?user=SEanjCoAAAAJ
-  - title: "Publications"
-    url: https://scholar.google.com/citations?user=SEanjCoAAAAJ
-  - title: "CV"
-    url: "/assets/files/CV.pdf"
