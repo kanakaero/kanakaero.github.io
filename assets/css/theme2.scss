@@ -1,16 +1,11 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
-search: false
 ---
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin2 | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-.icon-black {
-  color: black !important;
-}
 
 .sidebar { opacity: 1; }
 
@@ -20,7 +15,7 @@ search: false
   font-size: 1.8rem;
   font-weight: 400;
   color: $muted-text-color;
-  border-bottom: 2px solid black;
+  border-bottom: 2px solid white;
   width: 100%;
   width: 24em; /* or specify a width that fits your layout */
 
@@ -50,18 +45,18 @@ search: false
 }
 
 .text a:hover {
-  color: black;
-  border-bottom: 1.5px solid black;
+  color: white;
+  border-bottom: 1.5px solid white;
 }
 
 .text1 a:hover {
-  color: black;
-  border-bottom: 1.5px solid black;
+  color: white;
+  border-bottom: 1.5px solid white;
 }
 
 .text2 a:hover {
-  color: black;
-  border-bottom: 1.5px solid black;
+  color: white;
+  border-bottom: 1.5px solid white;
 }
 
 .text p {
@@ -142,6 +137,5 @@ search: false
 }
 
 .greedy-nav .visible-links a:before {
-  background-color: black;
+  background-color: cyan;
 }
-
