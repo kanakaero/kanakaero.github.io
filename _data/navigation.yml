@@ -16,7 +16,17 @@ main:
   #  url: https://scholar.google.com/citations?user=SEanjCoAAAAJ
   #- title: "Publications"
   #  url: https://scholar.google.com/citations?user=SEanjCoAAAAJ
+  - title: "Projects"
+    url: "/proj/"
+  - title: "Experience"
+    url: "/exp/"
+  - title: "Awards"
+    url: "/awards/"
+  - title: "Education"
+    url: "/edu/"
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=SEanjCoAAAAJ
+    #url: https://scholar.google.com/citations?user=SEanjCoAAAAJ
+    url: "/pub/"
   - title: "CV"
     url: "/assets/files/CV.pdf"
+    

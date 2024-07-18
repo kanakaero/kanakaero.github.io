@@ -14,44 +14,69 @@ search: false
 
 .sidebar { opacity: 1; }
 
+.greedy-nav .visible-links a:before {
+  background-color: black;
+}
+
 .archive__st {
-  margin: 1em 0 01em 2em;
+  margin: 3.5% 0 1em 0;
   padding-bottom: 0.5em;
   font-size: 1.8rem;
   font-weight: 400;
   color: $muted-text-color;
   border-bottom: 2px solid black;
-  width: 100%;
-  width: 24em; /* or specify a width that fits your layout */
 
   + .list__item .archive__item-title {
     margin-top: 1em;
   }
 }
 
-.text {
-  position: relative;
+.textp {
   text-align: justify;
-  width: 54em; /* or specify a width that fits your layout */
   font-size: 19px; 
-  box-sizing: content-box; /* Reset box-sizing to default */
 }
 
-.text a {
+.textp a {
+  color: blue;
   text-decoration: none;
+}
+
+.textp a:hover {
+  color: black;
+  border-bottom: 1.5px solid black;
+}
+
+.textp p {
+  line-height: 1.8;
+  /* Additional styling for your text */
+}
+
+.textp ul {
+  /* Additional styling for your text */
+  --icon-size: 0.95em;
+  --gutter: 0.75em;
+  padding: 0 0 0 var(--icon-size);
+}
+
+.textp ul li {
+  padding-left: var(--gutter);
+}
+
+.textp ul li::marker {
+  content: "\f072"; /* FontAwesome Unicode */
+  font-family: FontAwesome;
+  font-size: var(--icon-size);
+}
+
+
+.text1 {
+  text-align: justify;
+  font-size: 19px; 
 }
 
 .text1 a {
+  color: blue;
   text-decoration: none;
-}
-
-.text2 a {
-  text-decoration: none;
-}
-
-.text a:hover {
-  color: black;
-  border-bottom: 1.5px solid black;
 }
 
 .text1 a:hover {
@@ -59,44 +84,12 @@ search: false
   border-bottom: 1.5px solid black;
 }
 
-.text2 a:hover {
-  color: black;
-  border-bottom: 1.5px solid black;
-}
-
-.text p {
-  margin-left: 4.1em; /* Adjust as needed */
+.text1 p {
   line-height: 1.8;
   /* Additional styling for your text */
 }
 
-.text ul {
-  margin-left: 4.5em; /* Adjust as needed */
-  /* Additional styling for your text */
-  --icon-size: 0.95em;
-  --gutter: 0.75em;
-  padding: 0 0 0 var(--icon-size);
-}
-
-.text ul li {
-  padding-left: var(--gutter);
-}
-.text ul li::marker {
-  content: "\f072"; /* FontAwesome Unicode */
-  font-family: FontAwesome;
-  font-size: var(--icon-size);
-}
-
-.text1 {
-  position: relative;
-  text-align: justify;
-  width: 54em; /* or specify a width that fits your layout */
-  font-size: 19px; 
-  box-sizing: content-box; /* Reset box-sizing to default */
-}
-
 .text1 ul {
-  margin-left: 4.5em; /* Adjust as needed */
   /* Additional styling for your text */
   --icon-size: 0.95em;
   --gutter: 0.75em;
@@ -106,26 +99,35 @@ search: false
 .text1 ul li {
   padding-left: var(--gutter);
 }
+
 .text1 ul li::marker {
   content: "\f0fb"; /* FontAwesome Unicode */
   font-family: FontAwesome;
   font-size: var(--icon-size);
 }
 
-.greedy-nav .visible-links a:before {
-  background-color: black;
-}
 
 .text2 {
-  position: relative;
   text-align: justify;
-  width: 54em; /* or specify a width that fits your layout */
   font-size: 19px; 
-  box-sizing: content-box; /* Reset box-sizing to default */
+}
+
+.text2 a {
+  color: blue;
+  text-decoration: none;
+}
+
+.text2 a:hover {
+  color: black;
+  border-bottom: 1.5px solid black;
+}
+
+.text2 p {
+  line-height: 1.8;
+  /* Additional styling for your text */
 }
 
 .text2 ul {
-  margin-left: 4.5em; /* Adjust as needed */
   /* Additional styling for your text */
   --icon-size: 0.95em;
   --gutter: 0.75em;
@@ -135,13 +137,11 @@ search: false
 .text2 ul li {
   padding-left: var(--gutter);
 }
+
 .text2 ul li::marker {
   content: "\f197"; /* FontAwesome Unicode */
   font-family: FontAwesome;
   font-size: var(--icon-size);
 }
 
-.greedy-nav .visible-links a:before {
-  background-color: black;
-}
 

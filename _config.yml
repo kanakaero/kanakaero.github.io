@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Kanak Agarwal"
   avatar           : "assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Last Updated - May 2024" #"I am an **amazing** person."
+  bio              : "Last Updated - July 2024" #"I am an **amazing** person."
   location         : "Manipal, India"
   email            :
   links:
@@ -125,19 +125,19 @@ author:
       # url: "https://facebook.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-lg fa-linkedin icon-black"
-      url: "https://www.linkedin.com/in/kanak-agarwal-519ab6227/"
+      url: "https://www.linkedin.com/in/kanakaero/"
     - label: "GitHub"
       icon: "fab fa-fw fa-lg fa-github"
       url: "https://github.com/kanakaero"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-lg fa-google-scholar"
-      url: "https://scholar.google.com/citations?user=SEanjCoAAAAJ"
     - label: "ORCID"
       icon: "fab fa-fw fa-lg fa-orcid"
       url: "https://orcid.org/0009-0003-9509-1557"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-lg fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=SEanjCoAAAAJ"
 
 # Site Footer
 footer:

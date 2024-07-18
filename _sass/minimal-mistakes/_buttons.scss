@@ -83,15 +83,18 @@
   /* extra large button */
   &--x-large {
     font-size: $type-size-4;
+    font-weight: 400;
   }
 
   /* large button */
   &--large {
     font-size: $type-size-5;
+    font-weight: 400;
   }
 
   /* small button */
   &--small {
     font-size: $type-size-7;
+    font-weight: 400;
   }
 }
