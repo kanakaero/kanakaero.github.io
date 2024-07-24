@@ -15,9 +15,9 @@ permalink: /
 </div>
 
 <div class="textp">
-  <p>Currently, I am a research intern working under the guidance of <a href="https://home.iitm.ac.in/sameen/"> Dr. A. Sameen</a> at the <a href="https://home.iitm.ac.in/sameen/research_projects.html"> Theoretical and Computational Fluid Mechanics Lab</a>
-     at the Indian Institute of Technology, Madras. We are studying
-     the temporal evolution of vortex rings using pseudo-spectral methods implemented using the Python-based <a href="https://dedalus-project.org/"> Dedalus</a> framework.</p>
+  <p>Under the guidance of <a href="https://home.iitm.ac.in/sameen/">Dr. A. Sameen</a> at the <a href="https://home.iitm.ac.in/sameen/research_projects.html">TCFD Lab</a>, IIT Madras, I'm currently studying the temporal evolution of vortex rings. My research uses pseudo-spectral methods, implemented with the open-source, Python-based <a href="https://dedalus-project.org/">Dedalus</a> framework.</p>
+
+  <p></p>
 </div> 
 
 <h3  class="archive__st">Academic Background</h3>
@@ -36,6 +36,7 @@ permalink: /
 <ul>
 <li> Aerodynamics </li>
 <li> Aircraft Design </li>
+<li> Turbulent Flows </li>
 <li> Supersonic and Hypersonic Flows </li>
 <li> Computational Fluid Dynamics (CFD) </li>
 </ul>
