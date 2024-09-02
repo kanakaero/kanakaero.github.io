@@ -11,6 +11,12 @@ header:
 intro: 
   - excerpt2: 'This page highlights the awards and recognitions I have received'
 feature_row:
+  - image_path: assets/images/ncdb.png
+    title: "NACDeC-VII"
+    excerpt: "Secured <b>second</b> place in the seventh edition of the National Aerospace Conceptual Design Competition (NACDeC-VII) organised in collaboration with ISRO. <br> <b>Date:</b> September 2024"
+    url: "/awards/nacdec"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2412.png
     title: "CFD Competition"
     excerpt: "Secured <b>third</b> place in the CFD competition held as a part of the International Conference on Computational Methods in Engineering and Health Sciences (ICCMEH) 2023. <br> <b>Date:</b> October 2023"
@@ -23,6 +29,7 @@ feature_row:
     url: "/awards/sae"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/images/meth.jpg
     image_caption: "Image Source: Quora"
     title: "Paper Presentation"
@@ -30,7 +37,6 @@ feature_row:
     url: "awards/tt22"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row2:
   - image_path: /assets/images/hf.jpg
     image_caption: "Image Source: LinkedIn"
     title: "Heartulness Essay Event"

@@ -16,7 +16,7 @@ intro:
 <h2> About AeroMIT </h2>
 <p align="justify"> AeroMIT is the Official Aeromodelling and Drone Research Team of Manipal Academy Of Higher Education. We design and fabricate aerial vehicles for various research and competitive applications. Our project was founded 14 years ago, in 2009, and now has grown into a thriving team of around 40 interdisciplinary undergraduate students from MIT, Manipal.</p>
 
-<p align="justify"> I was part of the Aerodynamics subsystem at AeroMIT. The aerodynamics subsystem designs RC aircrafts for various mission requirements utilizing the aerodynamics and aircraft design concepts. It is also tasked with documenting the design process of every project the team undertakes.</p>
+<p align="justify"> I was part of the Aerodynamics subsystem at AeroMIT. The aerodynamics subsystem designs RC aircrafts for various mission requirements using fundamental aerodynamic and aircraft design concepts. It is also tasked with documenting the design process of every project the team undertakes.</p>
 <hr>
 
 <h2>Gallery</h2>
