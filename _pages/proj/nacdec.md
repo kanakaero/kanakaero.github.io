@@ -11,7 +11,7 @@ header:
     - label: "Design Report"
       url: "/assets/files/fdr.pdf"
     - label: "Presentation"
-      url: "/assets/files/ppt.pptx"
+      url: "https://docs.google.com/presentation/d/1sKe23oSP9vKOtOkvtO73QU54pY28A6gP/edit?usp=drive_link&ouid=105286872312410250276&rtpof=true&sd=true"
     - label: "Handout"
       url: "/assets/files/handout.pdf"
 intro: 
