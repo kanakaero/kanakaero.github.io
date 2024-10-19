@@ -13,7 +13,7 @@ intro:
 feature_row:
   - image_path: assets/images/nacdec.jpg
     title: "NACDeC: Martian UAV for the study of the Planetary BL"
-    excerpt: "Seventh Edition of the National Aerospace Conceptual Design Competition (NACDeC) organised in collaboration with ISRO.<br> <b>Date:</b> Ongoing"
+    excerpt: "Seventh Edition of the National Aerospace Conceptual Design Competition (NACDeC) organised in collaboration with ISRO.<br> <b>Date:</b> September 2024"
     url: "/proj/nacdec"
     btn_label: "Read More"
     btn_class: "btn--primary"
