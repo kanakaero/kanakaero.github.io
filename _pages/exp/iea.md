@@ -29,6 +29,11 @@ intro:
 </div>
 
 <hr>
+<h2>Certificate</h2>
+<img src="/assets/images/iecert.jpeg" style="width: 65%; height: auto;">
+<br>
+<br>
+<hr>
 
 <style>
 

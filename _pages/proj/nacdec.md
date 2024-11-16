@@ -55,19 +55,19 @@ intro:
 
 <h2>Design Methodology</h2>
 <br>
-<img src="/assets/images/ncdm.jpg" style="width: 90%; height: auto;">
+<img src="/assets/images/ncdm.jpg" style="width: 50%; height: auto;">
 <br>
 <hr>
 
 <h2>Planform Drawing of the UAV</h2>
 <br>
-<img src="/assets/images/ncdp.png" style="width: 90%; height: auto;">
+<img src="/assets/images/ncdp.png" style="width: 75%; height: auto;">
 <br>
 <hr>
 
 <h2>Final Mission Profile of the UAV</h2>
 <br>
-<img src="/assets/images/ncdfmp.jpg" style="width: 90%; height: auto;">
+<img src="/assets/images/ncdfmp.jpg" style="width: 50%; height: auto;">
 <br>
 <hr>
 

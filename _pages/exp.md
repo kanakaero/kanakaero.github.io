@@ -14,7 +14,7 @@ feature_row:
   - image_path: assets/images/iitm.jpg
     image_caption: "Image Source: Phys.org"
     title: "Research Intern (IITM)"
-    excerpt: "Research Intern at the Theoretical and Computational Fluid Mechanics Lab at the Indian Institute of Technology Madras. Currently working on analysing the temporal evolution of vortex rings using pseudo-spectral methods implemented in DEDALUS.<br> <b>Date:</b> Ongoing"
+    excerpt: "Research Intern at the Theoretical and Computational Fluid Mechanics Lab at IITM. Currently studying the temporal evolution of vortex rings using pseudo-spectral methods.<br> <b>Date:</b> Ongoing"
     #url: "/exp/iitm"
     #btn_label: "Read More"
     #btn_class: "btn--primary"
@@ -49,6 +49,7 @@ feature_row2:
     excerpt: "Was one of the key speakers at the Student Conference on the Paris Agreement (SCoPA), where my school represented India. I spoke on a global platform about India’s climate issues and what we as a country are doing to mitigate these problems.<br> <b>Date:</b> March 2020"
 feature_row3:
   - image_path: /assets/images/ncc.jpg
+    image_caption: "Image Source: LinkedIn"
     title: "National Cadet Corps (NCC)"
     excerpt: "Was part of the NCC unit at my school. Actively participated in various camps, rallies, and social awareness drives.<br> <b>Date:</b> April 2018"
     url: "/exp/ncc"
