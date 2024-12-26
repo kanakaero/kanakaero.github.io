@@ -37,8 +37,10 @@ permalink: /
 
 <div class="text1">
 <ul>
-<li> Agarwal, K., Vijaykrishnan, V., Mohanty, D., and Murugaiah, M., "A Comprehensive Dataset of the Aerodynamic and Geometric Coefficients of Airfoils in the Public Domain,"
-  Data, Vol. 9, No. 5, 2024, pp. 64. <a href="https://doi.org/10.3390/data9050064"> https://doi.org/10.3390/data9050064</a> </li>
+<li> Praveen Kumar, V., <b>Agarwal, K.</b>, Sameen, A., and Thara Reshma, I. V., "Flow Regimes in the Evolution of a Hot Buoyant Vortex Dipole," Physics of Fluids, Vol. 36,
+ No. 12, 2024, p. 123633. <a href="https://doi.org/10.1063/5.0244160"> https://doi.org/10.1063/5.0244160</a> </li> 
+<li> <b>Agarwal, K.</b>, Vijaykrishnan, V., Mohanty, D., and Murugaiah, M., "A Comprehensive Dataset of the Aerodynamic and Geometric Coefficients of Airfoils in the Public Domain,"
+  Data, Vol. 9, No. 5, 2024, p. 64. <a href="https://doi.org/10.3390/data9050064"> https://doi.org/10.3390/data9050064</a> </li>
 </ul>
 </div>
 
@@ -46,7 +48,7 @@ permalink: /
 
 <div class="text1">
 <ul>
-<li> <b> Undergraduate Degree in Aeronautical Engineering (2021-2025): </b> Manipal Institute of Technology, Manipal, India, CGPA - 8.40 (Current) </li>
+<li> <b> Undergraduate Degree in Aeronautical Engineering (2021-2025): </b> Manipal Institute of Technology, Manipal, India, CGPA - 8.44 (Current) </li>
 <li> <b> Grade XII (2021): </b> Lalaji Memorial Omega International School, Chennai, India - 91.2% </li>
 <li> <b> Grade X (2019): </b> Lalaji Memorial Omega International School, Chennai, India - 90.4%</li>
 </ul>
