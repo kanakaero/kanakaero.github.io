@@ -27,6 +27,8 @@ main:
   - title: "Publications"
     #url: https://scholar.google.com/citations?user=SEanjCoAAAAJ
     url: "/pub/"
+  - title: "Conferences"
+    url: "/conf/"
   - title: "CV"
     url: "/assets/files/CV.pdf"
     

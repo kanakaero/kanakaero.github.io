@@ -25,7 +25,7 @@ intro:
   </div>
   <div class="item">
     <img src="/assets/images/grpsae.jpg" style="width: 150%; height: auto; display: block; margin-bottom: 10px;">
-    <img src="/assets/images/top2.png" style="width: 150%; height: 400px; display: block; margin-bottom: 10px;">
+    <img src="/assets/images/top2.png" style="width: 150%; height: 360px; display: block; margin-bottom: 10px;">
   </div>
 </div>
 <br>

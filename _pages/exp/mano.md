@@ -24,7 +24,7 @@ intro:
   </div>
   <div class="item">
     <img src="/assets/images/belt.jpeg" style="width: 100%; height: auto; display: block; margin-bottom: 10px;">
-    <img src="/assets/images/fp.jpeg" style="width: 100%; height: 605px; display: block;">
+    <img src="/assets/images/fp.jpeg" style="width: 100%; height: 660px; display: block;">
   </div>
   <div class="item">
     <video width="100%" height="auto" controls style="display: block;">

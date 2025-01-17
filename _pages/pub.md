@@ -17,10 +17,17 @@ header:
 intro: 
   - excerpt2: 'This page showcases my publications.'
 feature_row:
+  - image_path: assets/images/pof.jpg
+    alt: "placeholder image 1"
+    title: "Physics of Fluids"
+    excerpt: "Flow Regimes in the Evolution of a Hot Buoyant Vortex Dipole<br><br><b> Date: </b> December 2024"
+    url: "/pub/pof"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2412.png
     alt: "placeholder image 1"
     title: "MDPI Data"
-    excerpt: "A Comprehensive Dataset of the Aerodynamic and Geometric Coefficients of Airfoils in the Public Domain<br><br><b> Date: </b> April 2024"
+    excerpt: "A Comprehensive Dataset of the Aerodynamic and Geometric Coefficients of Airfoils in the Public Domain<br><br/><b> Date: </b> April 2024"
     url: "/pub/mdpi"
     btn_label: "Read More"
     btn_class: "btn--primary"
