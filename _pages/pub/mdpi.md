@@ -11,7 +11,7 @@ header:
     - label: "Paper"
       url: "https://doi.org/10.3390/data9050064"
 intro: 
-  - excerpt2: '<b>Cite: </b>Agarwal, K.; Vijaykrishnan, V.; Mohanty, D.; Murugaiah, M. "A Comprehensive Dataset of the Aerodynamic and Geometric Coefficients of Airfoils in the Public Domain," Data, Vol. 9, 2024, p. 64. https://doi.org/10.3390/data9050064'
+  - excerpt2: '<b>Cite: </b>Agarwal, K.; Vijaykrishnan, V.; Mohanty, D.; Murugaiah, M. "A Comprehensive Dataset of the Aerodynamic and Geometric Coefficients of Airfoils in the Public Domain," Data, Vol. 9, 2024, p. 64. <a href="https://doi.org/10.3390/data9050064"> https://doi.org/10.3390/data9050064</a>'
 ---
 {% include feature_row id="intro" type="center" %}
 

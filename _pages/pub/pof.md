@@ -9,7 +9,7 @@ header:
     - label: "Paper"
       url: "https://doi.org/10.1063/5.0244160"
 intro: 
-  - excerpt2: '<b>Cite: </b>Praveen Kumar, V., Agarwal, K., Sameen, A., and Thara Reshma, I. V., "Flow Regimes in the Evolution of a Hot Buoyant Vortex Dipole," Physics of Fluids, Vol. 36, No. 12, 2024, p. 123633. https://doi.org/10.1063/5.0244160'
+  - excerpt2: '<b>Cite: </b>Praveen Kumar, V., Agarwal, K., Sameen, A., and Thara Reshma, I. V., "Flow Regimes in the Evolution of a Hot Buoyant Vortex Dipole," Physics of Fluids, Vol. 36, No. 12, 2024, p. 123633. <br><a href="https://doi.org/10.1063/5.0244160"> https://doi.org/10.1063/5.0244160</a>'
 ---
 {% include feature_row id="intro" type="center" %}
 
