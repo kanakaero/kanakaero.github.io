@@ -11,13 +11,9 @@ header:
 intro: 
   - excerpt2: 'This page outlines my experiences with various clubs, organizations, and other professional engagements'
 feature_row:
-  - image_path: assets/images/iitm.jpg
-    image_caption: "Image Source: Phys.org"
-    title: "Research Intern (IITM)"
-    excerpt: "Research Intern at the Theoretical and Computational Fluid Mechanics Lab at IITM. Currently studying the temporal evolution of vortex rings using pseudo-spectral methods.<br> <b>Date:</b> Ongoing"
-    #url: "/exp/iitm"
-    #btn_label: "Read More"
-    #btn_class: "btn--primary"
+  - image_path: assets/images/iitm_exp.jpg
+    title: "Research Assistant (IITM)"
+    excerpt: "Research Assistant at the Theoretical and Computational Fluid Mechanics Lab at IITM.<br> <b>Date:</b> Ongoing"
   - image_path: assets/images/iea.jpeg
     title: "IE-Aerospace"
     excerpt: "Advisory Board Member at IE-Aerospace for the AY 2023-24. <br> <b>Date:</b> September 2024<br><br>"

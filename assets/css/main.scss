@@ -145,3 +145,20 @@ search: false
 }
 
 
+.theme-toggle-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  margin-left: 0.5rem;
+  color: inherit;
+  cursor: pointer;
+
+  i {
+    color: inherit;
+  }
+}
+
+.theme-toggle-btn:focus {
+  outline: none;
+  box-shadow: none;
+}

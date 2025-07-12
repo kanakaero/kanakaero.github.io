@@ -12,22 +12,23 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin2   : "neon"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Kanak Agarwal"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kanak Agarwal"
+description              : #desc
+url                      : "https://kanakaero.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "kanakaero/kanakaero.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -58,7 +59,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : "true" # true, false (default)
+  hide                   : # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -96,7 +97,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "custom" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
@@ -104,15 +105,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Kanak Agarwal"
+  avatar           : "assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Last Updated - July 2025" #"I am an **amazing** person."
+  location         : "Chennai, India"
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      icon: "fas fa-fw fa-lg fa-envelope-square"
+      url: "mailto:kanakagarwalaero@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -122,12 +123,24 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-lg fa-linkedin icon-black"
+      url: "https://www.linkedin.com/in/kanakaero/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      icon: "fab fa-fw fa-lg fa-github"
+      url: "https://github.com/kanakaero"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-lg fa-orcid"
+      url: "https://orcid.org/0009-0003-9509-1557"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-lg fa-researchgate"
+      url: "https://www.researchgate.net/profile/Kanak-Agarwal-3"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-lg fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=SEanjCoAAAAJ"
 
 # Site Footer
 footer:
@@ -209,6 +222,21 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Projects
+    url: /proj/
+  - title: Experience
+    url: /exp/
+  - title: Awards
+    url: /awards/
+  - title: Education
+    url: /edu/
+  - title: Publications
+    url: /pub/
+  - title: Publications
+    url: /pub/
 
 # Sass/SCSS
 sass:
@@ -220,7 +248,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -276,4 +304,17 @@ compress_html:
   ignore:
     envs: development
 
-include: ["_pages"]
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true

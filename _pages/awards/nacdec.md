@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.4"
   actions:
     - label: "Problem Statement"
-      url: "https://drive.google.com/file/d/1i-1WZS4JVbkHluPNI5epfMjVU6Usq6hG/"
+      url: "/assets/files/ncdc_ps.pdf"
     - label: "Design Report"
       url: "/assets/files/fdr.pdf"
     - label: "Presentation"

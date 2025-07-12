@@ -13,7 +13,7 @@ intro:
 ---
 {% include feature_row id="intro" type="center" %}
 
-<h2>Abstract - A MATLAB GUI-Based Approach to Wing Design and Aerodynamic Performance Evaluation</h2>
+<h2>Abstract: A MATLAB GUI-Based Approach to Wing Design and Aerodynamic Performance Evaluation</h2>
 <p align="justify">This study presents a MATLAB based application developed for the design
 and aerodynamic analysis of varying wing geometries using the NACA 4 and 5-digit series
 airfoils. It presents an innovative framework that enables the efficient generation of intricate

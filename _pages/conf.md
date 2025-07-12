@@ -20,14 +20,14 @@ feature_row:
   - image_path: assets/images/sarod3.jpg
     alt: "placeholder image 1"
     title: "SAROD"
-    excerpt: "Symposium on Applied Aerodynamics and Design of Aerospace Vehicles<br><br><b> Date: </b> Dec 2024"
+    excerpt: "Symposium on Applied Aerodynamics and Design of Aerospace Vehicles<br><b> Date: </b> Dec 2024"
     url: "/conf/sarod"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/icfamead6.jpg
     alt: "placeholder image 1"
     title: "ICFAMEAD"
-    excerpt: " International Conference on Futuristic Advances in Mechatronics Engineering for Aerospace and Defence<br><br><b> Date: </b> October 2024"
+    excerpt: " International Conference on Futuristic Advances in Mechatronics Engineering for Aerospace and Defence<br><b> Date: </b> October 2024"
     url: "/conf/icfamead"
     btn_label: "Read More"
     btn_class: "btn--primary"

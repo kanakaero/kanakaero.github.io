@@ -107,8 +107,8 @@ analytics:
 author:
   name             : "Kanak Agarwal"
   avatar           : "assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Last Updated - Jan 2025" #"I am an **amazing** person."
-  location         : "Manipal, India"
+  bio              : "Last Updated - July 2025" #"I am an **amazing** person."
+  location         : "Chennai, India"
   email            :
   links:
     - label: "Email"
@@ -225,19 +225,18 @@ kramdown:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
-    url: /
-  - title: Teams
-    url: /teams/
-  - title: Publications
-    url: /publications/
+  - title: Projects
+    url: /proj/
+  - title: Experience
+    url: /exp/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
-
+  - title: Education
+    url: /edu/
+  - title: Publications
+    url: /pub/
+  - title: Publications
+    url: /pub/
 
 # Sass/SCSS
 sass:

@@ -1,9 +1,9 @@
 ---
 title: "CFD Competition: NACA 4412 Optimisation"
 layout: splash
-permalink: /proj/iccmeh
+permalink: /comp/iccmeh
 header:
-  overlay_color: "#000080"
+  overlay_color: "#6A0DAD"
   overlay_filter: "0.2"
   actions:
     - label: "GitHub"

@@ -16,10 +16,12 @@ main:
   #  url: https://scholar.google.com/citations?user=SEanjCoAAAAJ
   #- title: "Publications"
   #  url: https://scholar.google.com/citations?user=SEanjCoAAAAJ
-  - title: "Projects"
-    url: "/proj/"
   - title: "Experience"
     url: "/exp/"
+  - title: "Competitions"
+    url: "/comp/"
+  - title: "Projects"
+    url: "/proj/"
   - title: "Awards"
     url: "/awards/"
   - title: "Education"

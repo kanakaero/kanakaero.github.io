@@ -1,13 +1,13 @@
 ---
 title: "NACDeC: Conceptual Martian UAV"
 layout: splash
-permalink: /proj/nacdec
+permalink: /comp/nacdec
 header:
-  overlay_color: "#000080"
+  overlay_color: "#6A0DAD"
   overlay_filter: "0.2"
   actions:
     - label: "Problem Statement"
-      url: "https://drive.google.com/file/d/1i-1WZS4JVbkHluPNI5epfMjVU6Usq6hG/"
+      url: "/assets/files/ncdc_ps.pdf"
     - label: "Design Report"
       url: "/assets/files/fdr.pdf"
     - label: "Presentation"

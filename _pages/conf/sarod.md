@@ -15,7 +15,7 @@ intro:
 ---
 {% include feature_row id="intro" type="center" %}
 
-<h2>Abstract - MATLAB-Enhanced Wing Design and Aerodynamic Modeling</h2>
+<h2>Abstract: MATLAB-Enhanced Wing Design and Aerodynamic Modeling</h2>
 <p align="justify"> This study presents an innovative MATLAB-based methodology for the efficient design of intricate
 wing surfaces, offering an alternative to the cumbersome and skill-intensive CAD software process.
 This method facilitates the automated creation of '.stl' files for wings of various dimensions, allowing
