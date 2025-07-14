@@ -6,7 +6,7 @@ header:
   overlay_color: "#000080"
   overlay_filter: "0.2"
 intro: 
-  - excerpt2: 'Was the co-expertise head for the Aerosapce and Material Science domains at RSM for the academic year 2023-24'
+  - excerpt2: 'Was the co-expertise head for the Aerospace and Material Science domains at RSM for the academic year 2023-24'
 ---
 {% include feature_row id="intro" type="center" %}
 
