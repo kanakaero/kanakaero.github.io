@@ -4,8 +4,8 @@
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin2 | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin2 | default: 'default' }}";
+@import "minimal-mistakes";
 
 .sidebar { opacity: 1; }
 
@@ -48,11 +48,9 @@
 
 .textp p {
   line-height: 1.8;
-  /* Additional styling for your text */
 }
 
 .textp ul {
-  /* Additional styling for your text */
   --icon-size: 0.95em;
   --gutter: 0.75em;
   padding: 0 0 0 var(--icon-size);
@@ -63,7 +61,7 @@
 }
 
 .textp ul li::marker {
-  content: "\f072"; /* FontAwesome Unicode */
+  content: "\f072";
   font-family: FontAwesome;
   font-size: var(--icon-size);
 }
@@ -86,11 +84,9 @@
 
 .text1 p {
   line-height: 1.8;
-  /* Additional styling for your text */
 }
 
 .text1 ul {
-  /* Additional styling for your text */
   --icon-size: 0.95em;
   --gutter: 0.75em;
   padding: 0 0 0 var(--icon-size);
@@ -101,7 +97,7 @@
 }
 
 .text1 ul li::marker {
-  content: "\f0fb"; /* FontAwesome Unicode */
+  content: "\f0fb";
   font-family: FontAwesome;
   font-size: var(--icon-size);
 }
@@ -124,11 +120,9 @@
 
 .text2 p {
   line-height: 1.8;
-  /* Additional styling for your text */
 }
 
 .text2 ul {
-  /* Additional styling for your text */
   --icon-size: 0.95em;
   --gutter: 0.75em;
   padding: 0 0 0 var(--icon-size);
@@ -139,7 +133,7 @@
 }
 
 .text2 ul li::marker {
-  content: "\f197"; /* FontAwesome Unicode */
+  content: "\f1d8";
   font-family: FontAwesome;
   font-size: var(--icon-size);
 }
