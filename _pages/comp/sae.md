@@ -21,11 +21,11 @@ intro:
 <h2>Gallery</h2>
 <div class="grid-container">
   <div class="item">
-    <img src="/assets/images/plane.jpg" style="width: 100%; height: 840px; display: block; margin-bottom: 10px;">
+    <img src="/assets/images/plane.jpg" style="width: 100%; height: 98%; display: block; margin-bottom: 10px;">
   </div>
   <div class="item">
     <img src="/assets/images/grpsae.jpg" style="width: 150%; height: auto; display: block; margin-bottom: 10px;">
-    <img src="/assets/images/top2.png" style="width: 150%; height: 360px; display: block; margin-bottom: 10px;">
+    <img src="/assets/images/top2.png" style="width: 150%; height: 49%; display: block; margin-bottom: 10px;">
   </div>
 </div>
 <br>

@@ -55,7 +55,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/cst.jpg
     title: "Class Shape Transformation"
-    excerpt: "Course Project for Introduction to Aerospace Engineering (AAE 2157) at the Manipal Institute of Technology, Manipal, India<br> <b>Date:</b> December 2022<br><br>"
+    excerpt: "Course Project for Introduction to Aerospace Engineering (AAE 2157) at the Manipal Institute of Technology, Manipal, India<br> <b>Date:</b> December 2022<br>"
     url: "/proj/cst"
     btn_label: "Read More"
     btn_class: "btn--primary"

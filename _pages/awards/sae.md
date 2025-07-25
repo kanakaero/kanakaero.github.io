@@ -18,18 +18,6 @@ intro:
 <h2>About the Competition</h2>
 <p align="justify"> SAE Aero Design is organised by SAE International and is a competition where students are challenged to conceive, design, fabricate, and test a radio-controlled aircraft that can take off, land, and optimally meet mission requirements. It features three classes of competition-Regular, Advanced, and Micro. I participated in the Micro class during my tenure at AeroMIT. The micro class requires teams to make trades between two potentially conflicting requirements, carrying the highest payload fraction possible, while simultaneously pursuing the lowest empty weight possible.</p>
 <hr>
-<h2>Gallery</h2>
-<div class="grid-container">
-  <div class="item">
-    <img src="/assets/images/plane.jpg" style="width: 100%; height: 840px; display: block; margin-bottom: 10px;">
-  </div>
-  <div class="item">
-    <img src="/assets/images/grpsae.jpg" style="width: 150%; height: auto; display: block; margin-bottom: 10px;">
-    <img src="/assets/images/top2.png" style="width: 150%; height: 360px; display: block; margin-bottom: 10px;">
-  </div>
-</div>
-<br>
-<hr>
 <h2>Certificate</h2>
 <img src="/assets/images/sae.png" style="width: 65%; height: auto;">
 <br>

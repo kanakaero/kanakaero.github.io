@@ -14,17 +14,7 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 <h2>Abstract: A MATLAB GUI-Based Approach to Wing Design and Aerodynamic Performance Evaluation</h2>
-<p align="justify">This study presents a MATLAB based application developed for the design
-and aerodynamic analysis of varying wing geometries using the NACA 4 and 5-digit series
-airfoils. It presents an innovative framework that enables the efficient generation of intricate
-wing surfaces, doing away with cumbersome and skill-intensive wing design using CAD soft-
-ware. Further, the framework can generate complex geometrical features such as twist, taper,
-and sweep. With meticulous attention to the user perspective and user-friendliness, special
-emphasis has been given to the position, color, and usability of elements within the inter-
-face. It integrates the horizontal wind model (HWM) routine developed by the U.S. Naval
-Research Laboratory. This reinforces its practical application by computing the wind speed
-using location and time-specific data. The XFOIL solver integrated into the framework uses
-this initial wind speed data to conduct an initial aerodynamic analysis using the vortex panel
+<p align="justify">This study presents a MATLAB based application developed for the design and aerodynamic analysis of varying wing geometries using the NACA 4 and 5-digit series airfoils. It presents an innovative framework that enables the efficient generation of intricate wing surfaces, doing away with cumbersome and skill-intensive wing design using CAD software. Further, the framework can generate complex geometrical features such as twist, taper,and sweep. With meticulous attention to the user perspective and user-friendliness, special emphasis has been given to the position, color, and usability of elements within the interface. It integrates the horizontal wind model (HWM) routine developed by the U.S. Naval Research Laboratory. This reinforces its practical application by computing the wind speed using location and time-specific data. The XFOIL solver integrated into the framework uses this initial wind speed data to conduct an initial aerodynamic analysis using the vortex panel
 method. </p>
 <hr>
 

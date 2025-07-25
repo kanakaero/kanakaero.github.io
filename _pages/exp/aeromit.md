@@ -28,7 +28,7 @@ intro:
   <div class="item">
     <!--<img src="/assets/images/SW1.jpg" style="width: 100%; height: auto; display: block; margin-bottom: 10px;">-->
     <img src="/assets/images/SW2.jpg" style="width: 100%; height: auto; display: block;">
-    <img src="/assets/images/am1.jpg" style="width: 100%; height: 690px; display: block;">
+    <img src="/assets/images/am1.jpg" style="width: 100%; height: 68.5%; display: block;">
     
   </div>
   <div class="item">
