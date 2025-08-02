@@ -155,3 +155,30 @@
   outline: none;
   box-shadow: none;
 }
+
+.btn--inverse:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.greedy-nav__toggle:focus,
+.greedy-nav__toggle:active {
+  outline: none;
+  box-shadow: none;
+}
+.greedy-nav__toggle {
+  transition: none !important;
+  box-shadow: none !important;
+}
+.greedy-nav__toggle .navicon {
+  transition: none !important;
+  box-shadow: none !important;
+}
+
+.site-title {
+  display: none !important;
+
+  @media (min-width: 1200px) {
+    display: inline-block !important;
+  }
+}
