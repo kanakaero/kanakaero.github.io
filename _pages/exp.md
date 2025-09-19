@@ -41,7 +41,7 @@ feature_row2:
     btn_class: "btn--primary"
   - image_path: assets/images/f22.jpg
     title: "Blogger"
-    excerpt: "Blogged part-time Indian Military, Defence, and Geopolitics for the <a href=\"https://manipalblog.com/author/kanak-agarwal/\" target=\"_blank\">ManipalBlog</a> and <a href=\"https://www.defencexp.com/author/kanak-agarwal/\" target=\"_blank\">DefenceXP</a> websites.<br><b>Date:</b> 2023"
+    excerpt: "Blogged part-time on the Indian Military, Defence, and Geopolitics for the <a href=\"https://manipalblog.com/author/kanak-agarwal/\" target=\"_blank\">ManipalBlog</a> and <a href=\"https://www.defencexp.com/author/kanak-agarwal/\" target=\"_blank\">DefenceXP</a> websites.<br><b>Date:</b> 2023"
 feature_row3:
   - image_path: /assets/images/scopa.jpg
     image_caption: "Image Source: EcoMatcher"
