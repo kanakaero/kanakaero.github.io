@@ -13,7 +13,7 @@ intro:
 feature_row:
   - image_path: assets/images/iitm_exp.jpg
     title: "Research Assistant (IITM)"
-    excerpt: "Research Assistant at the Theoretical and Computational Fluid Mechanics Lab, Department of Aerospace Engineering at IIT Madras.<br><br><br><b>Date:</b> Ongoing"
+    excerpt: "Research Assistant under Prof. A. Sameen, Department of Aerospace Engineering at the Indian Institute of Technology, Madras.<br><br><b>Date:</b> Ongoing"
   - image_path: assets/images/iea.jpeg
     title: "IE-Aerospace"
     excerpt: "Advisory Board Member at IE-Aerospace for the AY 2023-24. <br> <b>Date:</b> September 2024<br><br>"
@@ -39,11 +39,14 @@ feature_row2:
     url: "/exp/aeromit"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: assets/images/f22.jpg
+    title: "Blogger"
+    excerpt: "Blogged part-time Indian Military, Defence, and Geopolitics for the <a href=\"https://manipalblog.com/author/kanak-agarwal/\" target=\"_blank\">ManipalBlog</a> and <a href=\"https://www.defencexp.com/author/kanak-agarwal/\" target=\"_blank\">DefenceXP</a> websites.<br><b>Date:</b> 2023"
+feature_row3:
   - image_path: /assets/images/scopa.jpg
     image_caption: "Image Source: EcoMatcher"
     title: "SCoPA"
     excerpt: "Was one of the key speakers at the Student Conference on the Paris Agreement (SCoPA), where my school represented India. I spoke on a global platform about India’s climate issues and what we as a country are doing to mitigate these problems.<br> <b>Date:</b> March 2020"
-feature_row3:
   - image_path: /assets/images/ncc.jpg
     image_caption: "Image Source: LinkedIn"
     title: "National Cadet Corps (NCC)"
@@ -53,7 +56,7 @@ feature_row3:
     btn_class: "btn--primary"
   - image_path: assets/images/omun.jpg
     title: "OmegaMUN"
-    excerpt: "Participated in the Model United Nations (MUN) conducted by my school. Represented Canada, and the topic of the MUN was whether Weapons of   Mass Destruction (WMD) should be banned. All the countries reached a consensus and a resolution was drafted.<br> <b>Date:</b> April 2018<br>"
+    excerpt: "Participated in the Model United Nations (MUN) conducted by my school. Represented Canada, and the topic of the MUN was whether Weapons of Mass Destruction (WMD) should be banned. All the countries reached a consensus and a resolution was drafted.<br> <b>Date:</b> April 2018<br>"
 ---
 
 {% include feature_row id="intro" type="center" %}
