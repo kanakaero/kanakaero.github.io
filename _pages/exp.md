@@ -35,7 +35,7 @@ feature_row2:
     btn_class: "btn--primary"
   - image_path: assets/images/am13.png
     title: "AeroMIT"
-    excerpt: "Junior Aerodynamics Engineer at the official aeromodelling team of the Manipal Institute of technology, Manipal, India. <br> <b>Date:</b> April 2023"
+    excerpt: "Junior Aerodynamics Engineer at the official aeromodelling team of the Manipal Institute of Technology, Manipal, India. <br> <b>Date:</b> April 2023"
     url: "/exp/aeromit"
     btn_label: "Read More"
     btn_class: "btn--primary"
