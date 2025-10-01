@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.4"
   actions:
     - label: "Paper"
-      url: "/assets/files/sarod.pdf"
+      url: "/assets/files/icfamead.pdf"
 intro: 
   - excerpt2: 'International Conference on Futuristic Advances in Mechatronics Engineering for Aerospace and Defence - Pune, India - October 2024'
 ---
