@@ -9,7 +9,7 @@ header:
     - label: "GitHub"
       url: "https://github.com/kanakaero"
 intro: 
-  - excerpt2: 'This page highlights the projects I have completed, as a part of my coursework at the various institutions I have attended.'
+  - excerpt2: 'This page highlights the projects I have completed, as part of my coursework at the various institutions I have attended.'
 
 feature_row:
   - image_path: /assets/images/iitm_edu.jpg

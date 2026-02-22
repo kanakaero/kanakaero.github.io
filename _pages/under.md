@@ -9,7 +9,7 @@ header:
     - label: "GitHub"
       url: "https://github.com/kanakaero/Undergrad"
 intro: 
-  - excerpt2: 'This page highlights the projects I have completed, as a part of my Undergrad Coursework in Aeronautical Engineering.'
+  - excerpt2: 'This page highlights the projects I have completed, as part of my Undergrad Coursework in Aeronautical Engineering.'
 
 feature_row:
   - image_path: assets/images/ae.png
