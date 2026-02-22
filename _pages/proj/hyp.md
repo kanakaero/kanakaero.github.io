@@ -1,7 +1,7 @@
 ---
 title: "Flow over a Wedge and a Blunt Body at Mach 9"
 layout: splash
-permalink: /proj/hyp
+permalink: /proj/under/hyp
 header:
   overlay_color: "#000080"
   overlay_filter: "0.2"

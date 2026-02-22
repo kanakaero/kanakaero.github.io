@@ -27,7 +27,7 @@ feature_row:
   - image_path: assets/images/2412.png
     alt: "placeholder image 1"
     title: "MDPI Data (2024)"
-    excerpt: "A Comprehensive Dataset of the Aerodynamic and Geometric Coefficients of Airfoils in the Public Domain<br><br/><b> Date: </b> April 2024"
+    excerpt: "A Comprehensive Dataset of the Aerodynamic and Geometric Coefficients of Airfoils in the Public Domain<br><b> Date: </b> April 2024"
     url: "/pub/mdpi"
     btn_label: "Read More"
     btn_class: "btn--primary"

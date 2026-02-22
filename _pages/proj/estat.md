@@ -7,11 +7,11 @@ header:
   overlay_filter: "0.2"
   actions:
     - label: "GitHub"
-      url: "https://github.com/kanakaero/E-Stationery"
+      url: "https://github.com/kanakaero/Grade_12"
     - label: "Report"
       url: "/assets/files/omega.pdf"
 intro: 
-  - excerpt2: 'Developed a command line-based e-shopping interface using Python and MySQL as a part of my class 12 final project.'
+  - excerpt2: 'Developed a command line-based e-shopping interface using Python and MySQL as a part of my grade 12 final project.'
 ---
 {% include feature_row id="intro" type="center" %}
 

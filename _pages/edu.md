@@ -13,11 +13,11 @@ intro:
 feature_row:
   - image_path: /assets/images/iitm_edu.jpg
     title: "Indian Institute of Technology, Madras (IITM)"
-    excerpt: "Masters of Technology in Computational Engineering (specialization in Computational Fluid Dynamics).<br><br><b>Date:</b> Ongoing<br>"
+    excerpt: "Masters of Technology (M.Tech) in Computational Engineering (CFD).<br><br><b>Date:</b> 2025-2027 (Expected)"
   - image_path: /assets/images/manipal.jpeg
     image_caption: "Image Source: MTTN"
     title: "Manipal Institute of Technology"
-    excerpt: "Bachelor of Technology in Aeronautical Engineering with a specialization in Aerodynamics.<br><b>Date:</b> 2021-2025<br><br>"
+    excerpt: "Bachelor of Technology (B.Tech) in Aeronautical Engineering.<br><b>Date:</b> 2021-2025<br>"
     url: "/edu/manipal"
     btn_label: "Read More"
     btn_class: "btn--primary"

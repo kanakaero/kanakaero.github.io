@@ -6,7 +6,7 @@ header:
   overlay_color: "#008080"
   overlay_filter: "0.2"
 intro: 
-  - excerpt2: 'Pursued a Bachelors of Technology in Aeronautical Engineering with a Minor Specialization in Aerodynamics from 2021-2025'
+  - excerpt2: 'Pursued a Bachelors of Technology in Aeronautical Engineering from 2021-2025'
 excerpt: "Bachelors of Technology (B. Tech)"
 ---
 

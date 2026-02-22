@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Analysis of Aileron Effectiveness"
 layout: splash
-permalink: /proj/ae
+permalink: /proj/under/ae
 header:
   overlay_color: "#000080"
   overlay_filter: "0.2"

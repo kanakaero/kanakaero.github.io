@@ -17,7 +17,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: assets/images/am.jpg
     title: "SAE Aero Design East (Micro Class)"
-    excerpt: "Participated in the SAE Aero Design East 2023 (Micro Class - AeroMIT) held at Lakeland, Florida, USA. <br><br><b>Date:</b> March 2023"
+    excerpt: "Participated in the SAE Aero Design East 2023 (Micro Class - AeroMIT) held at Lakeland, Florida, USA. <br><b>Date:</b> March 2023"
     url: "/comp/sae"
     btn_label: "Read More"
     btn_class: "btn--primary"

@@ -1,7 +1,7 @@
 ---
 title: "Class Shape Transformation"
 layout: splash
-permalink: /proj/cst
+permalink: /proj/under/cst
 header:
   overlay_color: "#000080"
   overlay_filter: "0.2"

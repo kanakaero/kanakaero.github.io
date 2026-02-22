@@ -1,7 +1,7 @@
 ---
 title: "Maslen's Method"
 layout: splash
-permalink: /proj/maslen
+permalink: /proj/under/maslen
 header:
   overlay_color: "#000080"
   overlay_filter: "0.2"

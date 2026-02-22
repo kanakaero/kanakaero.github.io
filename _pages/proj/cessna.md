@@ -1,13 +1,13 @@
 ---
 title: "Static Stability Analysis of the Cessna T-37"
 layout: splash
-permalink: /proj/cessna
+permalink: /proj/under/cessna
 header:
   overlay_color: "#000080"
   overlay_filter: "0.2"
   actions:
     - label: "GitHub"
-      url: "https://github.com/kanakaero/Static-Stability-Cessna-T-37"
+      url: "https://github.com/kanakaero/Undergrad/tree/main/Cessna_T-37"
     - label: "Report"
       url: "/assets/files/cessna.pdf"
 intro: 

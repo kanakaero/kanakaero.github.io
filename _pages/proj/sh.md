@@ -1,13 +1,13 @@
 ---
 title: "Power Calculator in Linux using Bash Scripting"
 layout: splash
-permalink: /proj/sh
+permalink: /proj/under/sh
 header:
   overlay_color: "#000080"
   overlay_filter: "0.2"
   actions:
     - label: "GitHub"
-      url: "https://github.com/kanakaero/linux-proj-2024"
+      url: "https://github.com/kanakaero/Undergrad/tree/main/Linux"
     - label: "Report"
       url: "/assets/files/linux.pdf"
 intro:
