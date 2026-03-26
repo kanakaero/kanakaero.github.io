@@ -7,9 +7,9 @@ header:
   overlay_filter: "0.4"
   actions:
     - label: "Paper"
-      url: "/assets/files/icfamead.pdf"
+      url: "https://doi.org/10.1063/5.0317405"
 intro: 
-  - excerpt2: 'International Conference on Futuristic Advances in Mechatronics Engineering for Aerospace and Defence - Pune, India - October 2024'
+  - excerpt2: '<b>Cite: </b>S. K. Sudhakar, R. Krishna, K. Agarwal, and M. Murugaiah, “A MATLAB GUI-based approach to wing design and aerodynamic performance evaluat- ion,” AIP Conference Proceedings, Vol. 3369, No. 1, 2026, Art. No. 050015. <a href="https://doi.org/10.1063/5.0317405"> https://doi.org/10.1063/5.0317405</a>'
 ---
 {% include feature_row id="intro" type="center" %}
 
