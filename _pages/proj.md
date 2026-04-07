@@ -14,7 +14,7 @@ intro:
 feature_row:
   - image_path: /assets/images/iitm_edu.jpg
     title: "Postgrad"
-    excerpt: "Projects completed as a part of my Postgrad Coursework in Computational Engineering (CFD<br> <b>Date:</b> 2025-2027<br>"
+    excerpt: "Projects completed as a part of my Postgrad Coursework in Computational Engineering (CFD)<br> <b>Date:</b> 2025-2027<br>"
     url: "https://github.com/kanakaero/Postgrad"
     btn_label: "GitHub"
     btn_class: "btn--primary"
