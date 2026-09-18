@@ -13,8 +13,14 @@ intro:
 
 feature_row:
   - image_path: /assets/images/iitm_edu.jpg
+    title: "Doctorate"
+    excerpt: "Projects completed as a part of my Doctoral Coursework in Aerospace Engineering<br> <b>Date:</b> 2026-2031<br>"
+    url: "https://github.com/kanakaero/Postgrad"
+    btn_label: "GitHub"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/iitm_edu.jpg
     title: "Postgrad"
-    excerpt: "Projects completed as a part of my Postgrad Coursework in Computational Engineering (CFD)<br> <b>Date:</b> 2025-2027<br>"
+    excerpt: "Projects completed as a part of my Postgrad Coursework in Computational Engineering (CFD)<br> <b>Date:</b> 2025-2026<br>"
     url: "https://github.com/kanakaero/Postgrad"
     btn_label: "GitHub"
     btn_class: "btn--primary"

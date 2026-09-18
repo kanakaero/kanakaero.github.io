@@ -17,6 +17,13 @@ header:
 intro: 
   - excerpt2: 'This page showcases the conferences I have attended.'
 feature_row:
+  - image_path: assets/images/aesi.jpg
+    alt: "placeholder image 1"
+    title: "AeSI CFD"
+    excerpt: "Aeronautical Society of India Computational Fluid Dynamics (CFD) Symposium<br><b> Date: </b> Aug 2026"
+    url: "/conf/aesi"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/sarod3.jpg
     alt: "placeholder image 1"
     title: "SAROD"

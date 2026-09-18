@@ -13,7 +13,10 @@ intro:
 feature_row:
   - image_path: /assets/images/iitm_edu.jpg
     title: "Indian Institute of Technology, Madras (IITM)"
-    excerpt: "Masters of Technology (M.Tech) in Computational Engineering (CFD).<br><br><b>Date:</b> 2025-2027 (Expected)"
+    excerpt: "Doctorate (PhD) in Aerospace Engineering.<br><br><b>Date:</b> 2026-2031 (Expected)"
+  - image_path: /assets/images/iitm_edu.jpg
+    title: "Indian Institute of Technology, Madras (IITM)"
+    excerpt: "Masters of Technology (M.Tech) in Computational Engineering (CFD).<br><br><b>Date:</b> 2025-2026"
   - image_path: /assets/images/manipal.jpeg
     image_caption: "Image Source: MTTN"
     title: "Manipal Institute of Technology"
