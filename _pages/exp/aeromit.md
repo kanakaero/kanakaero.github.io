@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.2"
   actions:
     - label: "Website"
-      url: "https://www.aeromit.in/"
+      url: "https://aeromitofficial.com/"
 intro: 
   - excerpt2: 'Served as a <b>Junior Aerodynamics Engineer</b> for the AY 2022-23'
 ---
