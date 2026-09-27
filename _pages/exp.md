@@ -12,8 +12,8 @@ intro:
   - excerpt2: 'This page outlines my experiences with various clubs, organizations, and other professional engagements'
 feature_row:
   - image_path: assets/images/iitm_exp.jpg
-    title: "Research Assistant (IITM)"
-    excerpt: "Research Assistant under Prof. A. Sameen, Department of Aerospace Engineering at the Indian Institute of Technology, Madras.<br><br><b>Date:</b> Ongoing"
+    title: "PhD Candidate (IITM)"
+    excerpt: "PhD candidate under Prof. A. Sameen, Department of Aerospace Engineering at the Indian Institute of Technology, Madras.<br><br><b>Date:</b> Ongoing"
   - image_path: assets/images/iea.jpeg
     title: "IE-Aerospace"
     excerpt: "Advisory Board Member at IE-Aerospace for the AY 2023-24. <br> <b>Date:</b> September 2024<br><br>"

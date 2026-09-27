@@ -11,16 +11,17 @@ header:
 intro: 
   - excerpt2: 'This page outlines my academic journey, detailing the institutions I have attended, the degrees I have earned, and the courses I have taken.'
 feature_row:
+  - image_path: /assets/images/iitm.jpg
+    title: "Indian Institute of Technology, Madras (IITM)"
+    excerpt: "Doctorate (PhD) in Aerospace Engineering.<br><br><b>Date:</b> 2026 - Present"
+    image_caption: "Image Source: IITM"
   - image_path: /assets/images/iitm_edu.jpg
     title: "Indian Institute of Technology, Madras (IITM)"
-    excerpt: "Doctorate (PhD) in Aerospace Engineering.<br><br><b>Date:</b> 2026-2031 (Expected)"
-  - image_path: /assets/images/iitm_edu.jpg
-    title: "Indian Institute of Technology, Madras (IITM)"
-    excerpt: "Masters of Technology (M.Tech) in Computational Engineering (CFD).<br><br><b>Date:</b> 2025-2026"
+    excerpt: "Masters of Technology (M.Tech) in Computational Engineering (CFD).<br><br><b>Date:</b> 2025 - 2026"
   - image_path: /assets/images/manipal.jpeg
     image_caption: "Image Source: MTTN"
     title: "Manipal Institute of Technology"
-    excerpt: "Bachelor of Technology (B.Tech) in Aeronautical Engineering.<br><b>Date:</b> 2021-2025<br>"
+    excerpt: "Bachelor of Technology (B.Tech) in Aeronautical Engineering.<br><b>Date:</b> 2021 - 2025<br>"
     url: "/edu/manipal"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -35,7 +36,7 @@ feature_row2:
   - image_path: assets/images/nptel.png
     image_caption: "Image Source: Quora"
     title: "SWAYAM NPTEL"
-    excerpt: "SWAYAM NPTEL is a project of the MHRD, India initiated by 7 IITs along with the IISc, Bangalore in 2003, to provide quality education to anyone interested in learning from the IITs.<br>"
+    excerpt: "SWAYAM NPTEL is a project of the MHRD, India initiated by 7 IITs along with IISc in 2003, to provide quality education to anyone interested in learning from the IITs.<br>"
     url: "/edu/nptel"
     btn_label: "Read More"
     btn_class: "btn--primary"

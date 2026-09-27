@@ -12,10 +12,11 @@ intro:
   - excerpt2: 'This page highlights the projects I have completed, as part of my coursework at the various institutions I have attended.'
 
 feature_row:
-  - image_path: /assets/images/iitm_edu.jpg
+  - image_path: /assets/images/iitm.jpg
     title: "Doctorate"
-    excerpt: "Projects completed as a part of my Doctoral Coursework in Aerospace Engineering<br> <b>Date:</b> 2026-2031<br>"
-    url: "https://github.com/kanakaero/Postgrad"
+    excerpt: "Projects completed as a part of my Doctoral Coursework in Aerospace Engineering<br> <b>Date:</b> Ongoing<br>"
+    image_caption: "Image Source: IITM"
+    url: "https://github.com/kanakaero/Doctorate"
     btn_label: "GitHub"
     btn_class: "btn--primary"
   - image_path: /assets/images/iitm_edu.jpg
